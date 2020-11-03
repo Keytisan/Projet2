@@ -1,3 +1,3 @@
 # Projet2
 
-Projet CESI
+Projet CES
